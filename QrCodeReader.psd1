@@ -13,10 +13,10 @@
 RootModule = 'QrCodeReader.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.2'
+ModuleVersion = '0.0.3'
 
 # Supported PSEditions
-# CompatiblePSEditions = @()
+CompatiblePSEditions = @('Core')
 
 # ID used to uniquely identify this module
 GUID = '64e9fbf5-d528-4bb4-8253-e075d0de3531'
