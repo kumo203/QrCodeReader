@@ -34,7 +34,7 @@ Author = 'kumo203'
 Description = 'This module reads QR Code to convert to readable text.'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+PowerShellVersion = '6.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
